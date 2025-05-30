@@ -130,9 +130,9 @@ overflow: hidden;
 
 .teeth::after{
   content: "| | | | |";
-font-size: 4em;
+font-size: 6vh;
 position: absolute;
-bottom:-0.1em;
+bottom:-0.1vh;
 
 }
 .bones{
